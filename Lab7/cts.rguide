@@ -1,0 +1,306 @@
+routeGuideNet nclk__L1_N0
+#Trunk_Term begin
+#Trunk nclk__L2_I0 A 750 511.5
+#Trunk nclk__L2_I6 A 728.4 871.5
+#Trunk_Term end
+wire 750 871.5 750 694.5 V 0.5
+wire 750 871.5 740.4 871.5 H 0.5
+wire 750 550.5 750 511.5 V 0.5
+wire 750 550.5 750 571.5 V 0.5
+wire 728.4 871.5 740.4 871.5 H 0.5
+wire 750 571.5 750 694.5 V 0.5
+endRouteGuideNet
+routeGuideNet nclk__L2_N7
+#Trunk_Term begin
+#Trunk I0/LD/T_FIFO/IP_FIFO/UFIFORAM/fiforeg_reg\[7\]\[6\] CLK 454.8 871.5
+#Trunk I0/LD/T_FIFO/IP_FIFO/UFIFORAM/fiforeg_reg\[2\]\[5\] CLK 526.8 631.5
+#Trunk I0/LD/T_FIFO/IP_FIFO/UFIFORAM/fiforeg_reg\[6\]\[6\] CLK 606 811.5
+#Trunk I0/LD/T_FIFO/IP_FIFO/UFIFORAM/fiforeg_reg\[5\]\[0\] CLK 639.6 670.5
+#Trunk I0/LD/T_FIFO/IP_FIFO/UFIFORAM/fiforeg_reg\[3\]\[0\] CLK 639.6 751.5
+#Trunk nclk__L2_I7 Y 723.6 874.5
+#Trunk_Term end
+wire 639.6 691.5 639.6 751.5 V 0.5
+wire 639.6 691.5 639.6 670.5 V 0.5
+wire 639.6 691.5 594 691.5 H 0.5
+wire 606 871.5 723.6 871.5 H 0.5
+wire 723.6 871.5 723.6 874.5 V 0.5
+wire 606 871.5 606 811.5 V 0.5
+wire 606 871.5 543.6 871.5 H 0.5
+wire 454.8 871.5 478.8 871.5 H 0.5
+wire 478.8 871.5 507.6 871.5 H 0.5
+wire 507.6 790.5 507.6 871.5 V 0.5
+wire 507.6 790.5 524.4 790.5 H 0.5
+wire 524.4 790.5 524.4 751.5 V 0.5
+wire 524.4 751.5 543.6 751.5 H 0.5
+wire 543.6 751.5 543.6 730.5 V 0.5
+wire 526.8 631.5 584.4 631.5 H 0.5
+wire 543.6 730.5 584.4 730.5 H 0.5
+wire 584.4 730.5 584.4 691.5 V 0.5
+wire 543.6 871.5 507.6 871.5 H 0.5
+wire 584.4 631.5 584.4 691.5 V 0.5
+wire 594 691.5 584.4 691.5 H 0.5
+endRouteGuideNet
+routeGuideNet nclk__L2_N6
+#Trunk_Term begin
+#Trunk I0/LD/T_FIFO/IP_FIFO/UFIFORAM/fiforeg_reg\[0\]\[0\] CLK 714 790.5
+#Trunk I0/LD/T_FIFO/IP_FIFO/UFIFORAM/fiforeg_reg\[7\]\[2\] CLK 658.8 931.5
+#Trunk I0/LD/T_FIFO/IP_FIFO/UFIFORAM/fiforeg_reg\[1\]\[1\] CLK 598.8 871.5
+#Trunk I0/LD/T_FIFO/IP_FIFO/UFIFORAM/fiforeg_reg\[3\]\[1\] CLK 634.8 811.5
+#Trunk I0/LD/T_FIFO/IP_FIFO/UFIFORAM/fiforeg_reg\[0\]\[2\] CLK 766.8 1111.5
+#Trunk I0/LD/T_FIFO/IP_FIFO/UFIFORAM/fiforeg_reg\[2\]\[1\] CLK 639.6 1090.5
+#Trunk I0/LD/T_FIFO/IP_FIFO/UFIFORAM/fiforeg_reg\[6\]\[2\] CLK 699.6 1150.5
+#Trunk_Term end
+wire 735.6 874.5 735.6 850.5 V 0.5
+wire 735.6 874.5 735.6 1051.5 V 0.5
+wire 735.6 874.5 663.6 874.5 H 0.5
+wire 663.6 874.5 658.8 874.5 H 0.5
+wire 663.6 874.5 663.6 850.5 V 0.5
+wire 735.6 1051.5 735.6 1111.5 V 0.5
+wire 735.6 1051.5 642 1051.5 H 0.5
+wire 735.6 850.5 714 850.5 H 0.5
+wire 714 850.5 714 790.5 V 0.5
+wire 663.6 850.5 663.6 811.5 V 0.5
+wire 658.8 874.5 598.8 874.5 H 0.5
+wire 598.8 874.5 598.8 871.5 V 0.5
+wire 658.8 874.5 658.8 931.5 V 0.5
+wire 663.6 811.5 634.8 811.5 H 0.5
+wire 642 1051.5 639.6 1051.5 H 0.5
+wire 639.6 1051.5 639.6 1090.5 V 0.5
+wire 735.6 1111.5 699.6 1111.5 H 0.5
+wire 699.6 1111.5 699.6 1150.5 V 0.5
+wire 735.6 1111.5 766.8 1111.5 H 0.5
+endRouteGuideNet
+routeGuideNet nclk__L2_N5
+#Trunk_Term begin
+#Trunk nclk__L2_I5 Y 747.6 874.5
+#Trunk I0/LD/T_FIFO/IP_FIFO/UFIFORAM/fiforeg_reg\[2\]\[0\] CLK 834 790.5
+#Trunk I0/LD/T_FIFO/IP_FIFO/UFIFORAM/fiforeg_reg\[5\]\[2\] CLK 774 991.5
+#Trunk I0/LD/T_SR_0/curr_val_reg\[4\] CLK 910.8 853.5
+#Trunk I0/LD/T_FIFO/IP_FIFO/UFIFORAM/fiforeg_reg\[2\]\[2\] CLK 831.6 1030.5
+#Trunk I0/LD/CTRL/curr_state_reg\[2\] CLK 1232.4 808.5
+#Trunk I0/LD/CTRL/bit_cnt_reg\[2\] CLK 1227.6 1048.5
+#Trunk I0/LD/TIM/curr_state_reg\[1\] CLK 1059.6 1153.5
+#Trunk I0/LD/CTRL/bit_cnt_reg\[1\] CLK 1167.6 1153.5
+#Trunk I0/LD/TIM/clk_cnt_reg\[1\] CLK 882 1093.5
+#Trunk I0/LD/T_SR_0/curr_val_reg\[2\] CLK 886.8 973.5
+#Trunk_Term end
+wire 747.6 874.5 774 874.5 H 0.5
+wire 774 874.5 831.6 874.5 H 0.5
+wire 774 874.5 774 973.5 V 0.5
+wire 774 973.5 829.2 973.5 H 0.5
+wire 774 973.5 774 991.5 V 0.5
+wire 831.6 874.5 877.2 874.5 H 0.5
+wire 831.6 874.5 831.6 853.5 V 0.5
+wire 831.6 853.5 834 853.5 H 0.5
+wire 834 853.5 834 790.5 V 0.5
+wire 877.2 874.5 910.8 874.5 H 0.5
+wire 829.2 973.5 882 973.5 H 0.5
+wire 829.2 973.5 829.2 988.5 V 0.5
+wire 910.8 874.5 946.8 874.5 H 0.5
+wire 910.8 874.5 910.8 853.5 V 0.5
+wire 946.8 874.5 994.8 874.5 H 0.5
+wire 829.2 988.5 831.6 988.5 H 0.5
+wire 831.6 988.5 831.6 1030.5 V 0.5
+wire 882 973.5 882 988.5 V 0.5
+wire 882 973.5 886.8 973.5 H 0.5
+wire 994.8 874.5 994.8 808.5 V 0.5
+wire 994.8 874.5 1006.8 874.5 H 0.5
+wire 1006.8 874.5 1006.8 928.5 V 0.5
+wire 886.8 973.5 939.6 973.5 H 0.5
+wire 882 988.5 882 1093.5 V 0.5
+wire 1006.8 928.5 1052.4 928.5 H 0.5
+wire 1052.4 928.5 1052.4 1033.5 V 0.5
+wire 994.8 808.5 1232.4 808.5 H 0.5
+wire 1052.4 1033.5 1059.6 1033.5 H 0.5
+wire 1059.6 1033.5 1059.6 1048.5 V 0.5
+wire 1059.6 1048.5 1059.6 1108.5 V 0.5
+wire 1059.6 1048.5 1227.6 1048.5 H 0.5
+wire 1059.6 1108.5 1059.6 1153.5 V 0.5
+wire 1059.6 1108.5 1117.2 1108.5 H 0.5
+wire 1117.2 1108.5 1167.6 1108.5 H 0.5
+wire 1167.6 1108.5 1167.6 1153.5 V 0.5
+endRouteGuideNet
+routeGuideNet nclk__L2_N4
+#Trunk_Term begin
+#Trunk I0/LD/T_FIFO/IP_FIFO/UFIFORAM/fiforeg_reg\[1\]\[7\] CLK 366 910.5
+#Trunk I0/LD/T_FIFO/IP_FIFO/UFIFORAM/fiforeg_reg\[7\]\[7\] CLK 366 1051.5
+#Trunk I0/LD/T_FIFO/IP_FIFO/UFIFORAM/fiforeg_reg\[6\]\[7\] CLK 529.2 1111.5
+#Trunk I0/LD/T_FIFO/IP_FIFO/UFIFORAM/fiforeg_reg\[2\]\[7\] CLK 548.4 1051.5
+#Trunk I0/LD/T_FIFO/IP_FIFO/UFIFORAM/fiforeg_reg\[6\]\[1\] CLK 610.8 1150.5
+#Trunk nclk__L2_I4 Y 759.6 874.5
+#Trunk_Term end
+wire 366 1030.5 366 991.5 V 0.5
+wire 366 1030.5 430.8 1030.5 H 0.5
+wire 366 1030.5 366 1051.5 V 0.5
+wire 469.2 1030.5 490.8 1030.5 H 0.5
+wire 490.8 1030.5 490.8 970.5 V 0.5
+wire 469.2 1030.5 469.2 1090.5 V 0.5
+wire 469.2 1030.5 430.8 1030.5 H 0.5
+wire 548.4 1090.5 601.2 1090.5 H 0.5
+wire 548.4 1090.5 548.4 1051.5 V 0.5
+wire 548.4 1090.5 529.2 1090.5 H 0.5
+wire 366 910.5 366 991.5 V 0.5
+wire 469.2 1090.5 529.2 1090.5 H 0.5
+wire 490.8 970.5 526.8 970.5 H 0.5
+wire 526.8 931.5 759.6 931.5 H 0.5
+wire 759.6 931.5 759.6 874.5 V 0.5
+wire 526.8 931.5 526.8 970.5 V 0.5
+wire 529.2 1111.5 529.2 1090.5 V 0.5
+wire 601.2 1090.5 610.8 1090.5 H 0.5
+wire 610.8 1090.5 610.8 1150.5 V 0.5
+endRouteGuideNet
+routeGuideNet nclk__L2_N3
+#Trunk_Term begin
+#Trunk nclk__L2_I3 Y 757.2 574.5
+#Trunk I0/LD/T_FIFO/IP_FIFO/UFIFORAM/fiforeg_reg\[2\]\[3\] CLK 639.6 490.5
+#Trunk I0/LD/T_FIFO/IP_FIFO/UFIFORAM/fiforeg_reg\[4\]\[4\] CLK 469.2 550.5
+#Trunk I0/LD/T_FIFO/IP_FIFO/UFIFORAM/fiforeg_reg\[3\]\[3\] CLK 584.4 370.5
+#Trunk I0/LD/T_FIFO/IP_FIFO/UFIFORAM/fiforeg_reg\[0\]\[4\] CLK 476.4 370.5
+#Trunk I0/LD/T_FIFO/IP_FIFO/UWFC/WPU1/binary_r_reg\[0\] CLK 714 388.5
+#Trunk_Term end
+wire 757.2 574.5 714 574.5 H 0.5
+wire 714 574.5 714 571.5 V 0.5
+wire 714 571.5 639.6 571.5 H 0.5
+wire 714 571.5 714 391.5 V 0.5
+wire 714 391.5 642 391.5 H 0.5
+wire 714 391.5 714 388.5 V 0.5
+wire 639.6 571.5 639.6 550.5 V 0.5
+wire 639.6 550.5 639.6 511.5 V 0.5
+wire 639.6 550.5 550.8 550.5 H 0.5
+wire 550.8 550.5 546 550.5 H 0.5
+wire 550.8 550.5 550.8 490.5 V 0.5
+wire 639.6 511.5 639.6 490.5 V 0.5
+wire 642 391.5 584.4 391.5 H 0.5
+wire 584.4 391.5 584.4 370.5 V 0.5
+wire 550.8 490.5 534 490.5 H 0.5
+wire 534 490.5 534 451.5 V 0.5
+wire 546 550.5 469.2 550.5 H 0.5
+wire 534 451.5 512.4 451.5 H 0.5
+wire 512.4 451.5 512.4 430.5 V 0.5
+wire 512.4 430.5 476.4 430.5 H 0.5
+wire 476.4 430.5 476.4 370.5 V 0.5
+endRouteGuideNet
+routeGuideNet nclk__L2_N2
+#Trunk_Term begin
+#Trunk I0/LD/T_FIFO/IP_FIFO/UWFC/wrptr_r2_reg\[0\] CLK 946.8 568.5
+#Trunk I0/LD/T_FIFO/IP_FIFO/URFC/rwptr_r2_reg\[2\] CLK 939.6 433.5
+#Trunk I0/LD/T_FIFO/IP_FIFO/UWFC/WPU1/gray_r_reg\[3\] CLK 913.2 373.5
+#Trunk I0/LD/T_SR_1/curr_val_reg\[7\] CLK 894 733.5
+#Trunk I0/LD/T_FIFO/IP_FIFO/UWFC/WPU1/binary_r_reg\[2\] CLK 781.2 373.5
+#Trunk nclk__L2_I2 Y 752.4 547.5
+#Trunk I0/LD/T_FIFO/IP_FIFO/UFIFORAM/fiforeg_reg\[4\]\[0\] CLK 730.8 670.5
+#Trunk I0/LD/T_FIFO/IP_FIFO/URFC/raddr_reg\[1\] CLK 788.4 508.5
+#Trunk_Term end
+wire 841.2 553.5 838.8 553.5 H 0.5
+wire 841.2 553.5 841.2 568.5 V 0.5
+wire 946.8 568.5 908.4 568.5 H 0.5
+wire 939.6 433.5 894 433.5 H 0.5
+wire 913.2 373.5 894 373.5 H 0.5
+wire 896.4 568.5 908.4 568.5 H 0.5
+wire 896.4 568.5 891.6 568.5 H 0.5
+wire 894 733.5 817.2 733.5 H 0.5
+wire 894 388.5 894 373.5 V 0.5
+wire 894 388.5 894 433.5 V 0.5
+wire 891.6 613.5 853.2 613.5 H 0.5
+wire 853.2 613.5 853.2 628.5 V 0.5
+wire 891.6 613.5 891.6 568.5 V 0.5
+wire 891.6 493.5 894 493.5 H 0.5
+wire 894 493.5 894 433.5 V 0.5
+wire 891.6 493.5 838.8 493.5 H 0.5
+wire 860.4 373.5 824.4 373.5 H 0.5
+wire 860.4 373.5 894 373.5 H 0.5
+wire 853.2 628.5 798 628.5 H 0.5
+wire 841.2 568.5 891.6 568.5 H 0.5
+wire 838.8 508.5 838.8 493.5 V 0.5
+wire 838.8 508.5 838.8 553.5 V 0.5
+wire 817.2 733.5 793.2 733.5 H 0.5
+wire 793.2 733.5 793.2 691.5 V 0.5
+wire 805.2 553.5 788.4 553.5 H 0.5
+wire 788.4 553.5 788.4 547.5 V 0.5
+wire 805.2 553.5 838.8 553.5 H 0.5
+wire 798 628.5 793.2 628.5 H 0.5
+wire 793.2 628.5 793.2 670.5 V 0.5
+wire 793.2 691.5 793.2 670.5 V 0.5
+wire 788.4 508.5 788.4 493.5 V 0.5
+wire 788.4 508.5 788.4 547.5 V 0.5
+wire 781.2 373.5 824.4 373.5 H 0.5
+wire 752.4 547.5 788.4 547.5 H 0.5
+wire 730.8 670.5 793.2 670.5 H 0.5
+endRouteGuideNet
+routeGuideNet nclk__L2_N1
+#Trunk_Term begin
+#Trunk nclk__L2_I1 Y 764.4 547.5
+#Trunk I0/LD/T_SR_1/curr_val_reg\[3\] CLK 944.4 628.5
+#Trunk I0/LD/T_SR_1/curr_val_reg\[2\] CLK 946.8 733.5
+#Trunk I0/LD/T_FIFO/IP_FIFO/URFC/RPU1/binary_r_reg\[0\] CLK 1110 613.5
+#Trunk I0/LD/T_FIFO/IP_FIFO/URFC/empty_flag_r_reg CLK 1114.8 553.5
+#Trunk I0/LD/T_FIFO/IP_FIFO/URFC/RPU1/gray_r_reg\[3\] CLK 1172.4 373.5
+#Trunk I0/LD/CTRL/curr_state_reg\[3\] CLK 1222.8 733.5
+#Trunk_Term end
+wire 1004.4 388.5 1006.8 388.5 H 0.5
+wire 1004.4 388.5 1004.4 433.5 V 0.5
+wire 1002 628.5 1057.2 628.5 H 0.5
+wire 1002 628.5 1002 733.5 V 0.5
+wire 1002 628.5 999.6 628.5 H 0.5
+wire 1062 388.5 1064.4 388.5 H 0.5
+wire 1062 388.5 1006.8 388.5 H 0.5
+wire 1057.2 613.5 1110 613.5 H 0.5
+wire 1057.2 613.5 1057.2 628.5 V 0.5
+wire 999.6 613.5 999.6 628.5 V 0.5
+wire 999.6 613.5 999.6 568.5 V 0.5
+wire 1227.6 508.5 1227.6 568.5 V 0.5
+wire 1227.6 508.5 1167.6 508.5 H 0.5
+wire 994.8 547.5 999.6 547.5 H 0.5
+wire 999.6 547.5 999.6 553.5 V 0.5
+wire 994.8 547.5 764.4 547.5 H 0.5
+wire 994.8 547.5 994.8 493.5 V 0.5
+wire 1114.8 388.5 1167.6 388.5 H 0.5
+wire 1114.8 388.5 1114.8 433.5 V 0.5
+wire 1114.8 388.5 1064.4 388.5 H 0.5
+wire 944.4 628.5 999.6 628.5 H 0.5
+wire 946.8 733.5 1002 733.5 H 0.5
+wire 994.8 493.5 1002 493.5 H 0.5
+wire 1002 493.5 1002 448.5 V 0.5
+wire 999.6 568.5 999.6 553.5 V 0.5
+wire 1002 448.5 1004.4 448.5 H 0.5
+wire 1004.4 448.5 1004.4 433.5 V 0.5
+wire 1114.8 433.5 1114.8 448.5 V 0.5
+wire 1114.8 448.5 1114.8 508.5 V 0.5
+wire 1114.8 553.5 1114.8 508.5 V 0.5
+wire 1167.6 388.5 1172.4 388.5 H 0.5
+wire 1172.4 388.5 1172.4 373.5 V 0.5
+wire 1167.6 508.5 1114.8 508.5 H 0.5
+wire 1222.8 733.5 1227.6 733.5 H 0.5
+wire 1227.6 733.5 1227.6 628.5 V 0.5
+wire 1227.6 568.5 1227.6 628.5 V 0.5
+endRouteGuideNet
+routeGuideNet nclk__L2_N0
+#Trunk_Term begin
+#Trunk I0/LD/T_FIFO/IP_FIFO/UFIFORAM/fiforeg_reg\[7\]\[4\] CLK 358.8 550.5
+#Trunk I0/LD/T_FIFO/IP_FIFO/UFIFORAM/fiforeg_reg\[5\]\[6\] CLK 378 850.5
+#Trunk I0/LD/T_FIFO/IP_FIFO/UFIFORAM/fiforeg_reg\[3\]\[4\] CLK 409.2 430.5
+#Trunk I0/LD/T_FIFO/IP_FIFO/UFIFORAM/fiforeg_reg\[0\]\[5\] CLK 469.2 631.5
+#Trunk I0/LD/T_FIFO/IP_FIFO/UFIFORAM/fiforeg_reg\[4\]\[5\] CLK 469.2 730.5
+#Trunk nclk__L2_I0 Y 757.2 514.5
+#Trunk_Term end
+wire 361.2 451.5 409.2 451.5 H 0.5
+wire 409.2 451.5 409.2 430.5 V 0.5
+wire 361.2 451.5 361.2 511.5 V 0.5
+wire 414 514.5 757.2 514.5 H 0.5
+wire 414 514.5 414 571.5 V 0.5
+wire 414 514.5 361.2 514.5 H 0.5
+wire 414 631.5 469.2 631.5 H 0.5
+wire 414 631.5 378 631.5 H 0.5
+wire 414 631.5 414 571.5 V 0.5
+wire 358.8 730.5 414 730.5 H 0.5
+wire 358.8 730.5 358.8 811.5 V 0.5
+wire 358.8 730.5 358.8 691.5 V 0.5
+wire 358.8 550.5 361.2 550.5 H 0.5
+wire 361.2 550.5 361.2 514.5 V 0.5
+wire 358.8 811.5 378 811.5 H 0.5
+wire 378 811.5 378 850.5 V 0.5
+wire 361.2 511.5 361.2 514.5 V 0.5
+wire 378 631.5 358.8 631.5 H 0.5
+wire 358.8 631.5 358.8 691.5 V 0.5
+wire 414 730.5 469.2 730.5 H 0.5
+endRouteGuideNet

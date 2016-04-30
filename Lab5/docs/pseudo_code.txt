@@ -1,0 +1,27 @@
+pseudo_code.txt
+
+idle: if (dr == 0) goto idle
+store: if (dr == 0) goto eidle
+	reg[5] = data
+	err = 0
+sort1: reg[1] = reg[2]
+sort2: reg[2] = reg[3]
+sort3: reg[3] = reg[4]
+sort4: reg[4] = reg[5]
+mul1: reg[7] = reg[1] * reg[6]
+add1: reg[0] = reg[0] + reg[7]
+	if V goto eidle
+mul2: reg[7] = reg[2] * reg[8]
+sub1: reg[0] = reg[0] - reg[7]
+	if V goto eidle
+mul3: reg[7] = reg[3] * reg[9]
+add2: reg[0] = reg[0] + reg[7]
+	if V goto eidle
+mul4: reg[7] = reg[4] * reg[10]
+sub2: reg[0] = reg[0] - reg[7]
+	if V goto eidle
+	else goto idle
+eidle: err = 1
+	if (data_ready) goto store
+	else goto eidle
+

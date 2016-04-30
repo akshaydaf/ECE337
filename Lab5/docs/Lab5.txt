@@ -1,0 +1,12 @@
+1. In order to ensure correct operation, data ready must be asserted for atleast 20 ns. The minimum amount of time that data must remain valid after data_ready is asserted in order to ensure correct operation is 2 clock cycles.
+
+2. The image files are different because they differ in the amount of red, green and blue that is available. They filter out the certain values by feeding in different coefficients into the program, that would correspond to the filtering out of certain values. 
+
+3. The general syntax of the file IO functions is like that of C. The file IO functions are similar to the ones used in C.
+
+4. fscanf
+   fprintf
+   ftell
+   fclose
+   fwrite
+   

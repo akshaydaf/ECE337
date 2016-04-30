@@ -1,0 +1,45 @@
+#######################################################
+#                                                     #
+#  Encounter Command Logging File                     #
+#  Created on Tue Mar  1 13:41:24 2016                #
+#                                                     #
+#######################################################
+
+#@(#)CDS: Encounter v09.11-s084_1 (32bit) 04/26/2010 12:41 (Linux 2.6)
+#@(#)CDS: NanoRoute v09.11-s008 NR100226-1806/USR63-UB (database version 2.30, 93.1.1) {superthreading v1.14}
+#@(#)CDS: CeltIC v09.11-s011_1 (32bit) 03/04/2010 09:23:40 (Linux 2.6.9-78.0.25.ELsmp)
+#@(#)CDS: CTE 09.11-s016_1 (32bit) Apr  8 2010 03:34:50 (Linux 2.6.9-78.0.25.ELsmp)
+#@(#)CDS: CPE v09.11-s023
+
+zoomOut
+zoomOut
+zoomOut
+zoomOut
+zoomOut
+zoomOut
+zoomOut
+zoomOut
+zoomIn
+zoomIn
+zoomIn
+zoomIn
+zoomIn
+zoomIn
+zoomIn
+zoomIn
+zoomOut
+zoomOut
+zoomOut
+zoomOut
+zoomOut
+zoomIn
+zoomIn
+zoomIn
+zoomSelected
+zoomSelected
+zoomSelected
+zoomSelected
+fit
+fit
+fit
+fit
